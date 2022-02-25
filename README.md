@@ -1,3 +1,3 @@
 # hello-world
-nu vom sti
+nu vom sti,
 sunt pasionat de dezvoltare personala 
